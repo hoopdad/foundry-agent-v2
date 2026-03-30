@@ -1,0 +1,5 @@
+azure.ai.agents
+azure.identity
+dotenv
+jinja2
+azure-ai-projects>=2.0.0
