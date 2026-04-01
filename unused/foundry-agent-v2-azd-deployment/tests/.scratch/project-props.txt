@@ -1,0 +1,12 @@
+=== Project Properties ===
+agentIdentity: {
+  "agentIdentityBlueprintId": "c23c7749-6afb-4dbd-a293-6ca36166d986",
+  "agentIdentityBlueprintObjectId": "c23c7749-6afb-4dbd-a293-6ca36166d986",
+  "agentIdentityId": "57a526f5-9549-4bd5-b2cc-1a62b4ca5aca"
+}
+endpoints: {
+  "AI Foundry API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/api/projects/mikeo-lab-fndry-cogsrvc-project"
+}
+internalId: 9aaad327ba324a4b80484097f2bac682
+isDefault: True
+provisioningState: Succeeded

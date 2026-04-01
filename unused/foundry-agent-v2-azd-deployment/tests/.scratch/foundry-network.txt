@@ -1,0 +1,90 @@
+endpoint: "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/"
+endpoints: {
+  "AI Foundry API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "Azure AI Model Inference API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "Azure MAI Model Inference API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "Azure MAI Model Inference API v1.0": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "Azure OpenAI Legacy API - Latest moniker": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "Cohere AI API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "Computer Vision": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Container": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Content Safety": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Content Understanding": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "Conversational Language Understanding Authoring": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "ConversationalLURuntime": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Custom Question Answering": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Custom Question Answering Authoring": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Custom Text Authoring": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "CustomTranslator": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "DocumentTranslation": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "FormRecognizer": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "LUIS": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Language": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Language Remote MCP Server": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Mistral AI API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/",
+  "OpenAI Dall-E API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "OpenAI Language Model Instance API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "OpenAI Model Scaleset API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "OpenAI Moderations API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "OpenAI Realtime API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "OpenAI Sora API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "OpenAI Whisper API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "ProjectA APIs": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "QnAMaker": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "QuestionAnswering": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Audio Content Creation": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Batch Avatar": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Batch Text to Speech": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Custom Avatar": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Custom Voice": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Custom Voice Trial": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Podcast": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speaker Identification": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speaker Verification": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speech to Text": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speech to Text (Standard)": "https://eastus2.stt.speech.microsoft.com",
+  "Speech Services Speech to Text 2024-05-15-preview": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speech to Text 2024-11-15": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speech to Text 2025-10-15": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speech to Text v3.2": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Speech to Text v3.2_internal.1": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services TTS Player": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Speech Services Text to Speech (Neural)": "https://eastus2.tts.speech.microsoft.com",
+  "Text Analytics": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "TextTranslation": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "TextTranslation-Global": "https://api.cognitive.microsofttranslator.com/",
+  "Token": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Token Service API": "https://mikeo-lab-fndry-cogsrvc.openai.azure.com/",
+  "Turing": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Video Translation": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Voice Agent Realtime API": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/",
+  "Voice Live Realtime API": "https://mikeo-lab-fndry-cogsrvc.cognitiveservices.azure.com/"
+}
+networkAcls: {
+  "defaultAction": "Deny",
+  "ipRules": []
+}
+privateEndpointConnections: [
+  {
+    "id": "/subscriptions/0ff111e2-f787-4beb-900b-01bc2c83aec2/resourceGroups/mikeo-lab-fndry-rg/providers/Microsoft.CognitiveServices/accounts/mikeo-lab-fndry-cogsrvc/privateEndpointConnections/mikeo-lab-fndry-cogsrvc-pe.3aaca812-ad0e-43ec-be3a-22ed842dd0f4",
+    "name": "mikeo-lab-fndry-cogsrvc/mikeo-lab-fndry-cogsrvc-pe.3aaca812-ad0e-43ec-be3a-22ed842dd0f4",
+    "properties": {
+      "groupIds": [
+        "account"
+      ],
+      "privateEndpoint": {
+        "id": "/subscriptions/0ff111e2-f787-4beb-900b-01bc2c83aec2/resourceGroups/mikeo-lab-fndry-rg/providers/Microsoft.Network/privateEndpoints/mikeo-lab-fndry-cogsrvc-pe"
+      },
+      "privateLinkServiceConnectionState": {
+        "actionsRequired": "None",
+        "description": "Approved",
+        "status": "Approved"
+      }
+    },
+    "type": "Microsoft.CognitiveServices/accounts/privateEndpointConnections"
+  }
+]
+publicNetworkAccess: "Disabled"
+restrictOutboundNetworkAccess: false
+identity.type: SystemAssigned
+identity.principalId: 89f0df3e-5bba-4003-9d93-7693248b0309

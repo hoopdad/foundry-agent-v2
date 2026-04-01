@@ -126,6 +126,18 @@ chmod +x deploy.sh
 ./deploy.ps1
 ```
 
+### Private MCP Pattern
+
+Use this order:
+
+1. Deploy private MCP endpoint and private networking.
+2. Create a Foundry project connection that points to the MCP server.
+3. Set either `MCP_PROJECT_CONNECTION_ID` or `MCP_CONNECTION_NAME` in `.env`.
+4. Run `./deploy.sh`.
+
+`parigp.yml` references MCP via `project_connection_id` using a placeholder token.
+During deployment, `deploy.sh` resolves and injects the actual connection id into the agent payload.
+
 ## Reference
 
 | Resource | Link |

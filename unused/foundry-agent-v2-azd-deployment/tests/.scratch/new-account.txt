@@ -1,0 +1,6 @@
+publicNetworkAccess: Disabled
+restrictOutbound: False
+endpoint: https://mikeo-lab-fndryprv-cogsrvc-p2.cognitiveservices.azure.com/
+AI Foundry API: https://mikeo-lab-fndryprv-cogsrvc-p2.services.ai.azure.com/
+identity.principalId: d89c6759-9ffe-4947-a6ee-c1254aec4a0d
+

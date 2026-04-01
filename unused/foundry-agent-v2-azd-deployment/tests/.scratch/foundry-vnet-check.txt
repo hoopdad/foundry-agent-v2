@@ -1,0 +1,30 @@
+=== VNet / Agent injection fields ===
+  etag: "\"23014004-0000-0200-0000-69cbc2a60000\""
+  id: "/subscriptions/0ff111e2-f787-4beb-900b-01bc2c83aec2/resourceGroups/mikeo-lab-fndry-rg/providers/Microsoft.CognitiveServices/accounts/mikeo-lab-fndry-cogsrvc"
+  identity: {
+  "principalId": "89f0df3e-5bba-4003-9d93-7693248b0309",
+  "tenantId": "d52a6857-5f44-4f8f-bcc8-420952d3225d",
+  "type": "SystemAssigned"
+}
+  kind: "AIServices"
+  location: "eastus2"
+  name: "mikeo-lab-fndry-cogsrvc"
+  sku: {
+  "name": "S0"
+}
+  systemData: {
+  "createdAt": "2026-03-31T12:41:42.2351508Z",
+  "createdBy": "mikeolivieri@MngEnvMCAP909996.onmicrosoft.com",
+  "createdByType": "User",
+  "lastModifiedAt": "2026-03-31T12:46:02.6661599Z",
+  "lastM
+  tags: {
+  "Environment": "dev",
+  "ManagedBy": "terraform",
+  "Owner": "mikeo",
+  "Project": "Azure-AI-Foundry"
+}
+  type: "Microsoft.CognitiveServices/accounts"
+
+
+All props: ['allowProjectManagement', 'apiProperties', 'armFeatures', 'associatedProjects', 'callRateLimit', 'capabilities', 'customSubDomainName', 'dateCreated', 'defaultProject', 'disableLocalAuth', 'endpoint', 'endpoints', 'internalId', 'isMigrated', 'networkAcls', 'privateEndpointConnections', 'provisioningState', 'publicNetworkAccess', 'restrictOutboundNetworkAccess']

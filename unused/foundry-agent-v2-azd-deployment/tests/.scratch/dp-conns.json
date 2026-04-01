@@ -1,0 +1,17 @@
+{
+  "value": [
+    {
+      "name": "mcp-auto",
+      "id": "/subscriptions/0ff111e2-f787-4beb-900b-01bc2c83aec2/resourceGroups/mikeo-lab-fndry-rg/providers/Microsoft.CognitiveServices/accounts/mikeo-lab-fndry-cogsrvc/projects/mikeo-lab-fndry-cogsrvc-project/connections/mcp-auto",
+      "type": "CustomKeys",
+      "target": "https://mcp-parigp-mikeo-lab.azurewebsites.net/mcp",
+      "isDefault": true,
+      "credentials": {
+        "type": "CustomKeys"
+      },
+      "metadata": {
+        "type": "mcp"
+      }
+    }
+  ]
+}

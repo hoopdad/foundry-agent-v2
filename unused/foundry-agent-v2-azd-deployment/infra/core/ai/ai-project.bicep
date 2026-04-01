@@ -207,8 +207,11 @@ module aiConnections './connection.bicep' = [for (connection, index) in connecti
       category: connection.category
       target: connection.target
       authType: connection.authType
+      isSharedToAll: connection.?isSharedToAll
+      credentials: connection.?credentials
+      metadata: connection.?metadata
     }
-    apiKey: '' // API keys should be provided via secure parameters or Key Vault
+    apiKey: connection.?apiKey ?? '' // API keys should be provided via secure parameters or Key Vault
   }
 }]
 

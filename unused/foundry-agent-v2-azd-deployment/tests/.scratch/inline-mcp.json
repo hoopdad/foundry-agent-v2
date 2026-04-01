@@ -1,0 +1,8 @@
+{
+  "error": {
+    "message": "Access denied when connecting to the MCP server at https://mcp-parigp-mikeo-lab.azurewebsites.net:443/mcp while enumerating tools (HTTP 403 Forbidden). Please verify: (1) your credentials have the necessary permissions to access this server, (2) any IP allowlists or network policies permit requests from this service, and (3) the server's access control configuration allows the requested operation.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "tool_user_error"
+  }
+}

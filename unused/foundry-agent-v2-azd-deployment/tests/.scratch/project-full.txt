@@ -1,0 +1,34 @@
+{
+    "etag": "\"010071c8-0000-0200-0000-69cbc3db0000\"",
+    "id": "/subscriptions/0ff111e2-f787-4beb-900b-01bc2c83aec2/resourceGroups/mikeo-lab-fndry-rg/providers/Microsoft.CognitiveServices/accounts/mikeo-lab-fndry-cogsrvc/projects/mikeo-lab-fndry-cogsrvc-project",
+    "identity": {
+        "principalId": "9eff3d2e-7252-47ac-8ef1-7cb1283a4f50",
+        "tenantId": "d52a6857-5f44-4f8f-bcc8-420952d3225d",
+        "type": "SystemAssigned"
+    },
+    "kind": "AIServices",
+    "location": "eastus2",
+    "name": "mikeo-lab-fndry-cogsrvc/mikeo-lab-fndry-cogsrvc-project",
+    "properties": {
+        "agentIdentity": {
+            "agentIdentityBlueprintId": "c23c7749-6afb-4dbd-a293-6ca36166d986",
+            "agentIdentityBlueprintObjectId": "c23c7749-6afb-4dbd-a293-6ca36166d986",
+            "agentIdentityId": "57a526f5-9549-4bd5-b2cc-1a62b4ca5aca"
+        },
+        "endpoints": {
+            "AI Foundry API": "https://mikeo-lab-fndry-cogsrvc.services.ai.azure.com/api/projects/mikeo-lab-fndry-cogsrvc-project"
+        },
+        "internalId": "9aaad327ba324a4b80484097f2bac682",
+        "isDefault": true,
+        "provisioningState": "Succeeded"
+    },
+    "systemData": {
+        "createdAt": "2026-03-31T12:46:16.3264401Z",
+        "createdBy": "mikeolivieri@MngEnvMCAP909996.onmicrosoft.com",
+        "createdByType": "User",
+        "lastModifiedAt": "2026-03-31T12:46:16.3264401Z",
+        "lastModifiedBy": "mikeolivieri@MngEnvMCAP909996.onmicrosoft.com",
+        "lastModifiedByType": "User"
+    },
+    "type": "Microsoft.CognitiveServices/accounts/projects"
+}
